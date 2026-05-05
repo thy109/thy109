@@ -1,4 +1,4 @@
-<h2 align="left">Thayná Alves do Nascimento Costa <br>Estudante de tecnologia!</h2>
+<h2 align="left">Thayná Alves do Nascimento Costa <br></h2>
 
 ###
 
